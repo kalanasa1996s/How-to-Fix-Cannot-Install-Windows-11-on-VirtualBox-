@@ -10,9 +10,16 @@ How to Fix Cannot Install Windows 11 on VirtualBox
 
 2). Type 
 
+![Capture2](https://user-images.githubusercontent.com/47558327/136683355-81287abf-43fe-4292-a1ce-a2d80d3b6ec8.PNG)
+
     regedit
     
-3).
+3).Opening Registry Editer and Expand
+  
+  HKEY_LOCAL_MACHINE -> SYSTEM -> Setup
+ 
+ and Right Click on setup -> Create New Key -> Keyname -> LabConfig
+ 
   
 
 
