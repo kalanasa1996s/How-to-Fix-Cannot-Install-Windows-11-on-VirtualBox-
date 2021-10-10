@@ -24,7 +24,17 @@ How to Fix Cannot Install Windows 11 on VirtualBox
  
  ![Capture4](https://user-images.githubusercontent.com/47558327/136683596-a10e6804-e28e-4a34-9868-1833273a8c9f.PNG)
   
-
+4).Create 4 New DWORD (32-bit) Value
+        
+        
+        
+        1).BypassTPMCheck 
+        2).BypassCPUCheck
+        3).BypassRAMCheck
+        4).BypassSecureBootCheck 
+        
+    and Set all Value 1    
+    
 
 
 
